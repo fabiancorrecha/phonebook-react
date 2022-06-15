@@ -1,3 +1,4 @@
 esta aplicacion tiene una funcionalidad muy basica la cual cuenta con un sistema de agregar editar y eliminar usuarios
 tambien cuenta con una barra de busqueda donde los contactos pueden ser encontrados por su nombre adicional a esto en las targetas que son 
 creadas por el usuario se puede obtener la edad exacta del usuario con tan solo ingresar su fecha de nacimiento.
+en cuanto a sus estilos fueron realizados con bootstrap algo muy minimalista y sencillo para optimizar algo de tiempo 
